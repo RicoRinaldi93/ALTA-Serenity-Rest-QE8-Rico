@@ -1,0 +1,9 @@
+starter\reqres\StepDef\RegisterUserStepDef.class
+starter\reqres\StepDef\UpdateUserStepDef.class
+starter\reqres\StepDef\CreateUserStepDef.class
+starter\reqres\Utils\Constant.class
+starter\reqres\ReqresAPI.class
+starter\reqres\StepDef\LoginUserStepDef.class
+starter\reqres\StepDef\ListUserStepDef.class
+starter\CucumberTestSuite.class
+starter\reqres\StepDef\DeleteUserStepDef.class
